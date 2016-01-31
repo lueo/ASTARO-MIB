@@ -179,11 +179,11 @@ crit-861 NOTIFICATION-TYPE
           "Advanced Threat Protection Alert"
 ::= { crit 861 }
 
-info-001 NOTIFICATION-TYPE
+info-000 NOTIFICATION-TYPE
     STATUS current
     DESCRIPTION
           "System was restarted"
-::= { info 1 }
+::= { info 0 }
 
 info-005 NOTIFICATION-TYPE
     STATUS current
